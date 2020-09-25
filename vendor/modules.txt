@@ -1,0 +1,6 @@
+# github.com/beanstalkd/go-beanstalk v0.1.0
+## explicit
+github.com/beanstalkd/go-beanstalk
+# github.com/guoyk93/conc v1.1.1
+## explicit
+github.com/guoyk93/conc
